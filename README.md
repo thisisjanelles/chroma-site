@@ -1,1 +1,3 @@
-Drafting the Chroma website
+Chroma website mockup
+
+To preview --> http://rawgit.com/
