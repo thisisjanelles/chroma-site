@@ -1,0 +1,48 @@
+#call-to-action {
+	text-align: center;
+	background-image: ;
+}
+
+#profile-picture {
+	width:250px;
+	height:250px;
+	border-radius:150%;
+}
+
+#blurb {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#my-experience {
+	text-align:center;
+	background-color:#f5f5f5;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+#my-experience-title {
+	padding-bottom:20px;
+}
+
+#about-me {
+	padding-top:25px;
+	padding-bottom:50px;
+	text-align: center;
+}
+
+#about-me p {
+	font-size:16px;
+}
+
+#footer {
+	text-align:right;
+}
+
+h1, h2, h3 {
+	color:#1CA57A;;
+}
+
+#my-experience p {
+	font-size:16px;
+}
